@@ -28,7 +28,7 @@ The dataset used in this project is generated synthetically. It contains the fol
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sansgithub22/Environmental-Data-Monitoring-AI-.git
+   git clone https://github.com/Sansgithub22/Environmental-Data-Monitoring-AI.git
 
    
 *You can change the USER_AGENT while extracting the data as per your browser.
